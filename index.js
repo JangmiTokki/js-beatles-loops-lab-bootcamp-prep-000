@@ -22,3 +22,5 @@ function johnLennonFacts(facts)
   }
   return facts;
 }
+
+function iLoveTheBeatles()
