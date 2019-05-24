@@ -15,10 +15,10 @@ function johnLennonFacts(facts)
 {
   var i = 0;
   
-  while(facts[i] > 0)
+  while(i < facts.length)
   {
     facts.push("!!!");
-    i--;
+    i++;
   }
   return facts;
 }
